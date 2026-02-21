@@ -18,7 +18,7 @@ import {
   Rocket,
   Cpu,
 } from "lucide-react";
-
+import "./globals.css";
 type IconType = ComponentType<{ className?: string }>;
 
 type Agent = {
